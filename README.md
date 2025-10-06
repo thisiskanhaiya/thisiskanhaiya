@@ -1,8 +1,8 @@
 
 
 - 👋 Hi, I’m @thisiskanhaiya
-- 👀 Java Fullstack Developer | Spring Boot | Spring Securities | API Development | API Testing | Selenium | Jenkins | Kafka | Microservices | SQL | ReactJs | Vue Js BDD | Banking Domain | Microservices
-- 📫 I’m working as a Project Engineer at Wipro since March 2023, where I’ve had the opportunity to work on a variety of exciting development and testing projects. I enjoy the challenge of designing, building and testing the front-end , back-end and API applications, and I’ve gained good experience in both areas.
+- 👀 Java Fullstack Developer | Spring Boot | Spring Securities | API Development | API Testing | Microservices | SQL | ReactJs | Banking Domain
+- 📫 I’m working as a Project Engineer at Wipro since March 2023, where I had the opportunity to work on a variety of exciting development and testing projects. I enjoy the challenge of designing, building and testing the front-end , back-end and API applications, and I’ve gained good experience in both areas.
 
 What I Do:
 Frontend Development: I work with React.js and Vue.js to create dynamic, user-friendly interfaces so i have good idea about HTML,CSS,JS.
